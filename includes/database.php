@@ -4,7 +4,7 @@
 $db_host = 'localhost';
 $db_name = 'store';
 $db_user = 'root';
-$db_pass = 'Softlips22';
+$db_pass = '*********';
 
 // Create object to connect
 $mysqli = new mysqli($db_host, $db_user, $db_pass, $db_name);
